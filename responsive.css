@@ -1,0 +1,9 @@
+@media (max-width: 1095px) {
+    #container #images{
+        display: none;
+    }
+
+    #container #login{
+        width: 100%;
+    }
+}
